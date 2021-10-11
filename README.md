@@ -1,2 +1,2 @@
-# A-B-test
+# AB-test
 A/B test using python
